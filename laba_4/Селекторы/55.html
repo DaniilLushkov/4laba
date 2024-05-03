@@ -1,0 +1,44 @@
+<!-- 63 -->
+<!-- Ошибка при использовании несколько CSS селекторов -->
+<style>
+    /* 1 */
+    h2.zzz {
+	color: red;
+}
+    /* 2 */
+    h2 .zzz {
+	color: red;
+}
+    /* 3 */
+    .bbb.zzz {
+	color: red;
+}
+    /* 4 */
+    .bbb .zzz {
+	color: red;
+}
+    /* 5 */
+    .bbb.zzz.xxx {
+	color: red;
+}
+    /* 6 */
+    .bbb .zzz.xxx {
+	color: red;
+}
+    /* 7 */
+    .bbb.zzz .xxx {
+	color: red;
+}
+    /* 8 */
+    .bbb .zzz .xxx {
+	color: red;
+}
+    /* 9 */
+    #elem.bbb {
+	color: red;
+}
+    /* 10 */
+    #elem .bbb {
+	color: red;
+}
+</style>
