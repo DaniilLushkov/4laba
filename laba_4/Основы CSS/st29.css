@@ -1,0 +1,21 @@
+p {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+.n30{
+    text-decoration: underline;
+}
+.n31{
+    text-decoration: overline;
+    color: red;
+}
+.n32{
+    text-decoration: line-through;
+    color: green;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+

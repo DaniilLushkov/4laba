@@ -1,0 +1,31 @@
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+/* 50 */
+#elem1{
+    color: red;
+}
+#elem2{
+    color: green;
+}
+#elem3{
+    color: blue;
+}
+/* 51 */
+#block{
+    color: red;
+}
+.text{
+    font-size: 50pt;
+}
+

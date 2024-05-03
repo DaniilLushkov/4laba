@@ -1,0 +1,36 @@
+li > b{
+    color: red;
+}
+.odd{
+    color: red;
+}
+.eve{
+    color: green;
+}
+
+.eee{
+    color: red;
+}
+.xxx{
+    font-size: 30px;
+}
+/* 1 */
+.r{
+    color: red;
+}
+.g{
+    color: green;
+}
+.b{
+    color: blue;
+}
+/* 45 */
+.header {
+	color: red;
+}
+h2 .header{
+    font-size: 40px;
+}
+h3 .header{
+    font-size: 30px;
+}
